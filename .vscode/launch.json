@@ -1,0 +1,702 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+            
+        },
+        {
+            "type": "java",
+            "name": "AreaofCircle",
+            "request": "launch",
+            "mainClass": "AreaofCircle",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAsArgument",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.ArrayAsArgument",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentQue3",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.AssignmentQue3",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.BinarySearch",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "InputOutputUpdate",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.InputOutputUpdate",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "KadanesSubarraySum",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.KadanesSubarraySum",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "LargestValue",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.LargestValue",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.LinearSearch",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "MaxArraySum2",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.MaxArraySum2",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArray1",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.MaxSubArray1",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.Pairs",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.Reverse",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SmallestValue",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.SmallestValue",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Stocks",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.Stocks",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SubArrays",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.SubArrays",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainwater",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Arrays.TrappingRainwater",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Bubblesort",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Inbuiltsort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Inbuiltsort",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Insertionsort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Insertionsort",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgos.Selectionsort",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CheckPowerTwo",
+            "request": "launch",
+            "mainClass": "BitManipulation.CheckPowerTwo",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ClearLastibit",
+            "request": "launch",
+            "mainClass": "BitManipulation.ClearLastibit",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ClearRangeBits",
+            "request": "launch",
+            "mainClass": "BitManipulation.ClearRangeBits",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Clearibit",
+            "request": "launch",
+            "mainClass": "BitManipulation.Clearibit",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Getibit",
+            "request": "launch",
+            "mainClass": "BitManipulation.Getibit",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "BitManipulation.OddEven",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Setibit",
+            "request": "launch",
+            "mainClass": "BitManipulation.Setibit",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Updateibit",
+            "request": "launch",
+            "mainClass": "BitManipulation.Updateibit",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorSwitch",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.CalculatorSwitch",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTaxCal",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.IncomeTaxCal",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Largest3nos",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.Largest3nos",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.Prime",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStmt",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.SwitchStmt",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "TernaryEvenOdd",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.TernaryEvenOdd",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "TernaryPassFail",
+            "request": "launch",
+            "mainClass": "ConditionalStmts.TernaryPassFail",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Datatypes",
+            "request": "launch",
+            "mainClass": "Datatypes",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "BinToDec",
+            "request": "launch",
+            "mainClass": "Functions.BinToDec",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Binomial",
+            "request": "launch",
+            "mainClass": "Functions.Binomial",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "DecToBin",
+            "request": "launch",
+            "mainClass": "Functions.DecToBin",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Functions.Factorial",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "FuncOverload",
+            "request": "launch",
+            "mainClass": "Functions.FuncOverload",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Functions.HelloWorld",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "OptimisedPrime",
+            "request": "launch",
+            "mainClass": "Functions.OptimisedPrime",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Prime(1)",
+            "request": "launch",
+            "mainClass": "Functions.Prime",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeInRange",
+            "request": "launch",
+            "mainClass": "Functions.PrimeInRange",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Functions.Product",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Functions.Sum",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Functions.Swap",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld2",
+            "request": "launch",
+            "mainClass": "HelloWorld2",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "BreakEx",
+            "request": "launch",
+            "mainClass": "Loops.BreakEx",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfNum",
+            "request": "launch",
+            "mainClass": "Loops.ReverseOfNum",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "Loops.SquarePattern",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "While100Hello",
+            "request": "launch",
+            "mainClass": "Loops.While100Hello",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "While1to10",
+            "request": "launch",
+            "mainClass": "Loops.While1to10",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "While1toN",
+            "request": "launch",
+            "mainClass": "Loops.While1toN",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClasses",
+            "request": "launch",
+            "mainClass": "OOPS.AbstractClasses",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "AccessModifiers",
+            "request": "launch",
+            "mainClass": "OOPS.AccessModifiers",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ClassesObjs",
+            "request": "launch",
+            "mainClass": "OOPS.ClassesObjs",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "OOPS.Constructors",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Den",
+            "request": "launch",
+            "mainClass": "OOPS.Den",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "OOPS.Interfaces",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces2",
+            "request": "launch",
+            "mainClass": "OOPS.Interfaces2",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "OOPS.MethodOverloading",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "OddEven(1)",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly",
+            "request": "launch",
+            "mainClass": "Patterns.Butterfly",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CharPattern",
+            "request": "launch",
+            "mainClass": "Patterns.CharPattern",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Patterns.Diamond",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.FloydsTriangle",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "Patterns.HalfPyramid",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "Patterns.HollowRectangle",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "HollowRhombus",
+            "request": "launch",
+            "mainClass": "Patterns.HollowRhombus",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "InvertedPyramid",
+            "request": "launch",
+            "mainClass": "Patterns.InvertedPyramid",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "InvertedRotatedPyramid",
+            "request": "launch",
+            "mainClass": "Patterns.InvertedRotatedPyramid",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "InvertedStar",
+            "request": "launch",
+            "mainClass": "Patterns.InvertedStar",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SolidRhombus",
+            "request": "launch",
+            "mainClass": "Patterns.SolidRhombus",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "Patterns.StarPattern",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOneTri",
+            "request": "launch",
+            "mainClass": "Patterns.ZeroOneTri",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "Strings.CheckPalindrome",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CompareFunc",
+            "request": "launch",
+            "mainClass": "Strings.CompareFunc",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "CompareToFunc",
+            "request": "launch",
+            "mainClass": "Strings.CompareToFunc",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "Strings.ShortestPath",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "Strings.StringCompression",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression2",
+            "request": "launch",
+            "mainClass": "Strings.StringCompression2",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Stringbilder",
+            "request": "launch",
+            "mainClass": "Strings.Stringbilder",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "Strings.SubString",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Uppercase",
+            "request": "launch",
+            "mainClass": "Strings.Uppercase",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "charAt",
+            "request": "launch",
+            "mainClass": "Strings.charAt",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "TwoDArrays.DiagonalSum",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "InputOutput",
+            "request": "launch",
+            "mainClass": "TwoDArrays.InputOutput",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "OptimiseDgnlSum",
+            "request": "launch",
+            "mainClass": "TwoDArrays.OptimiseDgnlSum",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "PracticeQue1",
+            "request": "launch",
+            "mainClass": "TwoDArrays.PracticeQue1",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "PracticeQue2",
+            "request": "launch",
+            "mainClass": "TwoDArrays.PracticeQue2",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "PracticeQue3",
+            "request": "launch",
+            "mainClass": "TwoDArrays.PracticeQue3",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "TwoDArrays.Search",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "SortedSearch",
+            "request": "launch",
+            "mainClass": "TwoDArrays.SortedSearch",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Spiral",
+            "request": "launch",
+            "mainClass": "TwoDArrays.Spiral",
+            "projectName": "Java Programming Language_e11b961a"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Java Programming Language_e11b961a"
+        }
+    ]
+}
